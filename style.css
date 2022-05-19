@@ -1,0 +1,47 @@
+body {
+    background-color: #deb8b8;
+    width: 100%;
+    margin: auto;
+}
+
+.container-fluid {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.quotes {
+    margin: 50px;
+    font-size: 4rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+button{
+    margin: 5%;
+    background-color: #393535;
+    outline: rgb(255, 255, 255);
+    color: #ffffff;
+    padding: 15px 0;
+    width: 150px;
+    letter-spacing: 1px;
+    border-radius: 100px;
+    cursor: pointer;
+    font-family: 'Comfortaa', cursive;
+}
+
+button:hover{
+    background: rgb(213, 130, 130);
+}
+
+footer{
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    background:rgb(255, 255, 255);
+    font-family: 'Comfortaa', cursive;
+}
